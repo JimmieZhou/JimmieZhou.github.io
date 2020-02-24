@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Test3</title>
+    <url>/2020/02/23/test3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>CSS</category>
+      </categories>
+      <tags>
+        <tag>CSS基础</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Test2</title>
+    <url>/2020/02/23/test2/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>JS</category>
+      </categories>
+      <tags>
+        <tag>JS基础</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Test</title>
+    <url>/2020/02/23/test/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>JS</category>
+      </categories>
+      <tags>
+        <tag>JS基础</tag>
+      </tags>
+  </entry>
+</search>
